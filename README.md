@@ -2,4 +2,4 @@
 # - Raka Pandu Aulia
 # - Fahrijal Syawaludin
 # - Shaka Pratama
-# - Taufiq Ashari
+# - Taufiq Ashari Ramadhan
